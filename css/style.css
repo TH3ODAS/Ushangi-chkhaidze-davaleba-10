@@ -147,7 +147,8 @@ span{
     width: 100%;
     margin: 0 auto;
 }
-.img-box h1{
+.img-box h1,
+.img-box h4{
     display: none;
 }
 h1{
@@ -158,6 +159,14 @@ h1{
     font-weight: 700;
     line-height: normal;
     margin-bottom: 5px;
+}
+h4{
+    color: #FFF;
+    font-size: 19px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 .fa-bars:hover{
     background-color: gainsboro;

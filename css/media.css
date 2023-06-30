@@ -40,10 +40,12 @@
     .card p {
         text-align: center;
     }
-    .img-box h6{
+    .img-box h6,
+    .img-box span{
         display: none;
     }
-    .img-box h1{
+    .img-box h1,
+    .img-box h4{
         display: inline-block;
     }
     
